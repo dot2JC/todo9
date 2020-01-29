@@ -1,0 +1,7 @@
+bob,dean,black,sales
+betty,sue,white,hr
+ricardo,bean,tree,hr
+
+scott,jean,green,eng
+
+
